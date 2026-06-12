@@ -4,22 +4,22 @@
     "url": "https://logged-and-loaded.onrender.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "app-home",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "95.97%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "95.96%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "97.80%",
-    "time": 213,
-    "timeDay": 313,
-    "timeWeek": 218,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 208,
+    "timeDay": 262,
+    "timeWeek": 209,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2026-05-31": 97,
       "2026-05-30": 4,
       "2026-06-07": 279,
-      "2026-06-12": 127
+      "2026-06-12": 128
     }
   },
   {
@@ -27,22 +27,22 @@
     "url": "https://logged-and-loaded.onrender.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "api-ping",
-    "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
-    "time": 1364,
-    "timeDay": 9045,
-    "timeWeek": 2580,
-    "timeMonth": 1364,
-    "timeYear": 1364,
+    "status": "down",
+    "uptime": "97.81%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 1310,
+    "timeDay": 6811,
+    "timeWeek": 2374,
+    "timeMonth": 1310,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2026-05-31": 97,
       "2026-05-30": 3,
       "2026-06-07": 279,
-      "2026-06-12": 126
+      "2026-06-12": 127
     }
   },
   {
@@ -50,19 +50,20 @@
     "url": "https://logged-and-loaded.onrender.com/api/debug/status",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "worker-status",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.23%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.79%",
-    "time": 4102,
-    "timeDay": 7847,
-    "timeWeek": 2770,
-    "timeMonth": 4102,
-    "timeYear": 4102,
+    "time": 3902,
+    "timeDay": 3981,
+    "timeWeek": 2505,
+    "timeMonth": 3902,
+    "timeYear": 3902,
     "dailyMinutesDown": {
-      "2026-06-07": 279
+      "2026-06-07": 279,
+      "2026-06-12": 1
     }
   },
   {
@@ -70,35 +71,39 @@
     "url": "https://logged-and-loaded.onrender.com/api/token/status",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "e-bay-token-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 1593,
-    "timeWeek": 309,
-    "timeMonth": 280,
-    "timeYear": 280,
-    "dailyMinutesDown": {}
+    "time": 269,
+    "timeDay": 841,
+    "timeWeek": 281,
+    "timeMonth": 269,
+    "timeYear": 269,
+    "dailyMinutesDown": {
+      "2026-06-12": 0
+    }
   },
   {
     "name": "Dashboard Root",
     "url": "https://logged-and-loaded.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "dashboard-root",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 251,
-    "timeWeek": 217,
-    "timeMonth": 232,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "time": 224,
+    "timeDay": 169,
+    "timeWeek": 201,
+    "timeMonth": 224,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2026-06-12": 0
+    }
   }
 ]
