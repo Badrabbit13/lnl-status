@@ -1,7 +1,7 @@
 url: https://logged-and-loaded.onrender.com/api/health
-status: up
-code: 200
-responseTime: 193
-lastUpdated: 2026-06-19T00:20:49.835Z
+status: down
+code: 502
+responseTime: 491
+lastUpdated: 2026-06-19T23:15:23.944Z
 startTime: 2026-05-27T21:07:56.313Z
 generator: Upptime <https://github.com/upptime/upptime>
