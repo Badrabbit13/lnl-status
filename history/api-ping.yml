@@ -1,7 +1,7 @@
 url: https://logged-and-loaded.onrender.com/api/ping
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2026-06-22T23:30:06.283Z
+status: down
+code: 502
+responseTime: 156
+lastUpdated: 2026-06-23T23:17:56.800Z
 startTime: 2026-05-27T21:07:56.836Z
 generator: Upptime <https://github.com/upptime/upptime>
