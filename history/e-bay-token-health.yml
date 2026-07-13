@@ -1,7 +1,7 @@
 url: https://logged-and-loaded.onrender.com/api/token/status
-status: up
-code: 200
-responseTime: 100
-lastUpdated: 2026-07-12T23:17:15.014Z
+status: down
+code: 502
+responseTime: 395
+lastUpdated: 2026-07-13T10:47:14.732Z
 startTime: 2026-05-27T21:08:03.800Z
 generator: Upptime <https://github.com/upptime/upptime>
