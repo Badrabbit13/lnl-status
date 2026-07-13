@@ -6,9 +6,9 @@
     "slug": "app-home",
     "status": "up",
     "uptime": "97.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "97.55%",
     "time": 1653,
     "timeDay": 261,
@@ -32,7 +32,8 @@
       "2026-06-30": 55,
       "2026-07-02": 80,
       "2026-07-03": 27,
-      "2026-07-05": 30
+      "2026-07-05": 30,
+      "2026-07-13": 1
     }
   },
   {
@@ -40,17 +41,17 @@
     "url": "https://logged-and-loaded.onrender.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "api-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "98.11%",
-    "time": 1144,
-    "timeDay": 103,
-    "timeWeek": 101,
-    "timeMonth": 1107,
-    "timeYear": 1144,
+    "time": 1130,
+    "timeDay": 101,
+    "timeWeek": 100,
+    "timeMonth": 1087,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2026-05-31": 97,
       "2026-05-30": 3,
@@ -66,7 +67,8 @@
       "2026-06-30": 55,
       "2026-07-02": 78,
       "2026-07-03": 26,
-      "2026-07-05": 30
+      "2026-07-05": 30,
+      "2026-07-13": 1
     }
   },
   {
@@ -74,17 +76,17 @@
     "url": "https://logged-and-loaded.onrender.com/api/debug/status",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "worker-status",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "98.74%",
-    "time": 3671,
-    "timeDay": 248,
-    "timeWeek": 3370,
-    "timeMonth": 3728,
-    "timeYear": 3671,
+    "time": 3616,
+    "timeDay": 167,
+    "timeWeek": 2959,
+    "timeMonth": 3645,
+    "timeYear": 3616,
     "dailyMinutesDown": {
       "2026-06-07": 279,
       "2026-06-12": 95,
@@ -95,7 +97,8 @@
       "2026-06-23": 6,
       "2026-06-27": 13,
       "2026-07-02": 78,
-      "2026-07-05": 30
+      "2026-07-05": 30,
+      "2026-07-13": 1
     }
   },
   {
@@ -128,22 +131,23 @@
     "url": "https://logged-and-loaded.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logged-and-loaded.onrender.com.ico",
     "slug": "dashboard-root",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.63%",
-    "time": 283,
-    "timeDay": 339,
-    "timeWeek": 272,
-    "timeMonth": 315,
-    "timeYear": 283,
+    "time": 796,
+    "timeDay": 15426,
+    "timeWeek": 4052,
+    "timeMonth": 1089,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2026-06-12": 94,
       "2026-07-02": 54,
       "2026-07-03": 68,
-      "2026-07-05": 29
+      "2026-07-05": 29,
+      "2026-07-13": 0
     }
   }
 ]
