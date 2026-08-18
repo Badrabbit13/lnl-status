@@ -1,7 +1,7 @@
 url: https://logged-and-loaded.onrender.com/
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2026-08-17T23:04:51.635Z
+status: degraded
+code: 500
+responseTime: 30248
+lastUpdated: 2026-08-18T09:31:59.982Z
 startTime: 2026-05-27T21:08:04.230Z
 generator: Upptime <https://github.com/upptime/upptime>
